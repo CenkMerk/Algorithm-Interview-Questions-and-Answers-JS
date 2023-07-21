@@ -38,3 +38,4 @@ Girdi: nums = [3, 3], target = 6
 
 
 
+Algoritmanın orjinal halini ve diğer çözümleri [LeetCode](https://leetcode.com/problems/two-sum/description/) dan inceleyebilirsiniz.
