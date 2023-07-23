@@ -1,4 +1,4 @@
-## Bir Dizideki İki Sayının Toplamının Hedefe Eşit Olduğu İndisleri Bulma
+## Bir Dizide, Toplamları Belirlenen Bir Sayıya Eşit Olan İki Sayının İndislerini Bulan Algoritma 
 
 :question: **Soru** : Verilen bir tamsayılar dizisi (nums) ve bir tamsayı hedef (target) verildiğinde, bu dizideki iki sayının toplamının hedefe eşit olduğu indisleri döndürün.
 
